@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "liweimin-realWorld",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
